@@ -1,6 +1,6 @@
 let grid = [];
 let cwh = 800;
-let delta = 40;
+let delta = 20;
 let cellSize = cwh / delta;
 
 let current;
